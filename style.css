@@ -1,0 +1,43 @@
+body {
+    background-color:rgb(100, 95, 95);
+    color:rgb(133, 16, 16);
+}
+
+img {
+    width: 280px;
+    height: 140px;
+    padding:5px;
+    margin:3%;
+    border:double 5px lightslategray;
+}
+
+a {
+    text-decoration:none;
+    color:rgb(138, 80, 26);
+    font-size:18px;
+    margin:3px;
+}
+
+nav {
+    display:block;
+    border: double 5px lightslategray;
+    text-align: center;
+}
+a:hover{
+    color:darkgoldenrod;
+}
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.one {
+    width:150px;
+    height:150px;
+}
+
